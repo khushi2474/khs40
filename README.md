@@ -1,3 +1,10 @@
+  <h1 align="center">Hi 👋, I'm</h1>
+<div align="center">
+
+![gitartwork](gitartwork.svg)
+</div>  
+
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
